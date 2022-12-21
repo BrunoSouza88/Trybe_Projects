@@ -1,5 +1,5 @@
 
-# Trybe Projects
+## Trybe Projects
 
 Trybe is a web development school with more than 1500 hours of training, distributed between content study, live classes, individual and group projects and development of socio-emotional skills. The school invests all the resources necessary for people to learn the technical skills of a developer in practice, working on projects with real challenges, and evolving their soft skills, in addition to offering connection to the job market and helping with hiring.
 
@@ -14,3 +14,10 @@ Each project will be placed in a new branch, with its own README. Any question c
 🏢 [LinkedIn](https://www.linkedin.com/in/bruno-souza-12951892/)
 
 📷 [bmsouza88](instagram.com/bmsouza88)
+
+
+
+
+# Projects:
+
+[Lessons Learned](https://github.com/BrunoSouza88/Trybe_Projects/tree/Lessons-Learned)
