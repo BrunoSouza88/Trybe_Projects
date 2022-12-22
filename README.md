@@ -21,3 +21,5 @@ Each project will be placed in a new branch, with its own README. Any question c
 # Projects:
 
 [Lessons Learned](https://github.com/BrunoSouza88/Trybe_Projects/tree/Lessons-Learned)
+
+[Playground Functions](https://github.com/BrunoSouza88/Trybe_Projects/tree/Playground-Functions)
